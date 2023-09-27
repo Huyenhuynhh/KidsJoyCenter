@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in BalloonGame.startAnimation():BalloonGame.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "addedBalloons">
+            </PersistentString>
+            <PersistentString
+               value = "img.frame.origin.y">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemoryGame.handleTap(_:):MemoryGame.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imageView.image">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MemoryGame.getImages():MemoryGame.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imageNames">
+            </PersistentString>
+            <PersistentString
+               value = "buttonSeq">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BalloonGame.viewDidLoad():BalloonGame.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "numBallons">
+            </PersistentString>
+            <PersistentString
+               value = "numArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BalloonGame.startAnimation():BalloonGame.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "img4.frame">
+            </PersistentString>
+            <PersistentString
+               value = "addedBalloons">
+            </PersistentString>
+            <PersistentString
+               value = "img.frame.origin ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BalloonGame.touchesBegan(_:with:):BalloonGame.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "subview.tag">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BalloonGame.updateCounter():BalloonGame.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "addedBalloons">
+            </PersistentString>
+            <PersistentString
+               value = "nums">
+            </PersistentString>
+            <PersistentString
+               value = "view2.subviews.count">
+            </PersistentString>
+            <PersistentString
+               value = "index">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SortingGame.viewDidLoad():SortingGame.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "images">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BalloonGame.touched(_:):BalloonGame.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "subView.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
