@@ -53,3 +53,8 @@ Ensure you have Xcode installed and configured, then:
 - The app is exclusively designed for iPad Pro 9.7 inch in landscape mode.
 - The Initial screen can be designed using Xcode Interface Builder, but other views should be programmed.
 - Design with a focus on usability and user experience, especially considering the app's audience - kids.
+<img width="734" alt="Screenshot 2023-09-27 at 2 20 25 AM" src="https://github.com/Huyenhuynhh/KidsJoyCenter/assets/90643140/b4df49ea-77a2-4a51-bf3f-8f49c2712eff">
+<img width="720" alt="Screenshot 2023-09-27 at 2 20 41 AM" src="https://github.com/Huyenhuynhh/KidsJoyCenter/assets/90643140/bca3063f-92b0-4281-8d23-d3b13cd5416f">
+<img width="683" alt="Screenshot 2023-09-27 at 2 20 51 AM" src="https://github.com/Huyenhuynhh/KidsJoyCenter/assets/90643140/8a09d992-44ad-451d-8bbc-9950761110da">
+<img width="663" alt="Screenshot 2023-09-27 at 2 20 58 AM" src="https://github.com/Huyenhuynhh/KidsJoyCenter/assets/90643140/78080c65-ca95-42a6-adda-0ecef2e15ae6">
+
